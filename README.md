@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img align='right' src='https://raw.githubusercontent.com/sunkid1995/sunkid1995/main/giphy.gif' width='200"'>
+  <img align='right' src='https://raw.githubusercontent.com/sunkid1995/sunkid1995/main/giphy.gif' width='200'>
 
   I am Nguyen Ngoc Binh, JS developer
 
