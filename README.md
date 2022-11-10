@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img align='right' src="https://media1.giphy.com/media/OjI3iowbHLmoY7n98e/giphy.gif?cid=790b76114ca2464086d1d57e3cb634dd20b25657535bf81d&rid=giphy.gif&ct=s" width='200'>
+  <img align='right' src="https://media1.giphy.com/media/OjI3iowbHLmoY7n98e/giphy.gif?cid=790b76114ca2464086d1d57e3cb634dd20b25657535bf81d&rid=giphy.gif&ct=s" width='260'>
 
   I am Nguyen Ngoc Binh, JS developer
 
