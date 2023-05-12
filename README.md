@@ -11,6 +11,4 @@
 </div>
 
 Here are some information about me:
-- ⚡ Fun fact: Code is ...
 - 📫 Contact to me: sunkiddev@gmail.com
-- 📸 Instagram: binh.nnb
